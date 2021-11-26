@@ -1,6 +1,12 @@
 # android-challenge
 This is our android challenge project, fork it to start
 
+## Figma Designs ##
+
+This Figma Design shows the flow for the app to be implemented.
+
+(Figma Design Presentation)[https://www.figma.com/proto/QoqwGGVP54eSxvOKGtO2jT/Android-Test?node-id=2%3A252&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A252&show-proto-sidebar=1]
+
 ## Mock Server ##
 
 The server has mock endpoints to help implement the project
