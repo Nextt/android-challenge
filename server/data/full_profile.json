@@ -1,0 +1,13 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@gmail.com",
+  "birth_date": "1990-02-18",
+  "phone_number": 9419252121,
+  "ssn": "123-45-6789",
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001"
+  }
+}
