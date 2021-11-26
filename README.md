@@ -1,7 +1,7 @@
 # android-challenge
 This is our android challenge project, fork it to start
 
-## Information ##
+## Resources ##
 
 This Figma Design shows the flow for the app to be implemented.
 
@@ -10,6 +10,9 @@ This Figma Design shows the flow for the app to be implemented.
 The objectives and requirements for this challenge:
 
 [Objectives](./Requirements.md)
+
+Font to use:
+[Lato](https://fonts.google.com/specimen/Lato)
 
 ## Mock Server ##
 
