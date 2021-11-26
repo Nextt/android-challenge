@@ -5,7 +5,7 @@ This is our android challenge project, fork it to start
 
 This Figma Design shows the flow for the app to be implemented.
 
-(Figma Design Presentation)[https://www.figma.com/proto/QoqwGGVP54eSxvOKGtO2jT/Android-Test?node-id=2%3A252&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A252&show-proto-sidebar=1]
+[Figma Design Presentation](https://www.figma.com/proto/QoqwGGVP54eSxvOKGtO2jT/Android-Test?node-id=2%3A252&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A252&show-proto-sidebar=1)
 
 ## Mock Server ##
 
@@ -24,6 +24,8 @@ npm ci
 ```
 npm start
 ```
+
+Server should be available at `localhost:3001`
 
 ### Endpoints ###
 
