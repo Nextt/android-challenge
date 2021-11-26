@@ -12,6 +12,7 @@ The objectives and requirements for this challenge:
 [Objectives](./Requirements.md)
 
 Font to use:
+
 [Lato](https://fonts.google.com/specimen/Lato)
 
 ## Mock Server ##
